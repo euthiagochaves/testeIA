@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/instructions/">
+    <File Path="00-general-behavior.md" />
+    <File Path="10-cep-tool.md" />
+    <File Path="20-debug-tools.md" />
+    <File Path="30-technical-architecture.md" />
+    <File Path="40-project-and-class-structure.md" />
+  </Folder>
+</Solution>
