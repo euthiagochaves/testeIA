@@ -6,4 +6,9 @@
     <File Path="30-technical-architecture.md" />
     <File Path="40-project-and-class-structure.md" />
   </Folder>
+  <Project Path="CepAgent.Application/CepAgent.Application.csproj" />
+  <Project Path="CepAgent.Console/CepAgent.Console.csproj" />
+  <Project Path="CepAgent.Domain/CepAgent.Domain.csproj" />
+  <Project Path="CepAgent.Infrastructure/CepAgent.Infrastructure.csproj" />
+  <Project Path="CepAgent.McpServer/CepAgent.McpServer.csproj" />
 </Solution>
